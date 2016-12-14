@@ -1,8 +1,8 @@
 Last login: Wed Aug 20 11:24:50 on ttys000
-Antonios-MacBook-Pro-7:~ A_Figueroa$ cd /Applications/MAMP/htdocs 
-Antonios-MacBook-Pro-7:htdocs A_Figueroa$ mkdir flaskenv
-Antonios-MacBook-Pro-7:htdocs A_Figueroa$ cd flaskenv
-Antonios-MacBook-Pro-7:flaskenv A_Figueroa$ sudo easy_install virtualenv
+Mantons-MacBook-Pro-7:~ M_Horton$ cd /Applications/MAMP/htdocs
+Mantons-MacBook-Pro-7:htdocs M_Horton$ mkdir flaskenv
+Mantons-MacBook-Pro-7:htdocs M_Horton$ cd flaskenv
+Mantons-MacBook-Pro-7:flaskenv M_Horton$ sudo easy_install virtualenv
 Password:
 Searching for virtualenv
 Best match: virtualenv 1.11.6
@@ -14,25 +14,8 @@ Installing virtualenv-2.7 script to /usr/local/bin
 Using /Library/Python/2.7/site-packages/virtualenv-1.11.6-py2.7.egg
 Processing dependencies for virtualenv
 Finished processing dependencies for virtualenv
-Antonios-MacBook-Pro-7:flaskenv A_Figueroa$ virtualenv venv
+Mantons-MacBook-Pro-7:flaskenv M_Horton$ virtualenv venv
 New python executable in venv/bin/python
 Installing setuptools, pip...done.
-Antonios-MacBook-Pro-7:flaskenv A_Figueroa$ . venv/bin/activate
-(venv)Antonios-MacBook-Pro-7:flaskenv A_Figueroa$ sudo pip install flask
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Mantons-MacBook-Pro-7:flaskenv M_Horton$ . venv/bin/activate
+(venv)Mantons-MacBook-Pro-7:flaskenv M_Horton$ sudo pip install flask

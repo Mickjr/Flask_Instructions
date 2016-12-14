@@ -1,38 +1,5 @@
-(venv)Antonios-MacBook-Pro-7:flaskenv A_Figueroa$ ls
+(venv)Mantons-MacBook-Pro-7:flaskenv M_Horton$ ls
 test.py	venv
-(venv)Antonios-MacBook-Pro-7:flaskenv A_Figueroa$ python test.py
+(venv)Mantons-MacBook-Pro-7:flaskenv M_Horton$ python test.py
 Test
-(venv)Antonios-MacBook-Pro-7:flaskenv A_Figueroa$ 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(venv)Mantons-MacBook-Pro-7:flaskenv M_Horton$
